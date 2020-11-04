@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae737559-3c74-47ec-8420-7ee8b961c6be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClientConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/EchoServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCSF/bin/ocsf/client/AbstractClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCSF/bin/ocsf/server/AbstractServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCSF/bin/ocsf/server/AbstractServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCSF/bin/ocsf/server/ConnectionToClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCSF/src/ocsf/client/AbstractClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/OCSF/src/ocsf/client/AbstractClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCSF/src/ocsf/server/AbstractServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/OCSF/src/ocsf/server/AbstractServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCSF/src/ocsf/server/ConnectionToClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/OCSF/src/ocsf/server/ConnectionToClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/ChatClient.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jicj9WdojFbdgyyN1KbyXBoOAe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae737559-3c74-47ec-8420-7ee8b961c6be" name="Default Changelist" comment="" />
+      <created>1604290484216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604290484216</updated>
+    </task>
+    <servers />
+  </component>
+</project>
